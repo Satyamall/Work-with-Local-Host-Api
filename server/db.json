@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "LEARN MOCK SERVER",
+      "status": false
+    },
+    {
+      "id": 2,
+      "title": "LEARN MOCK SERVER",
+      "status": true
+    },
+    {
+      "title": "LEARN JAVASCRIPT",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "LEARN FETCH",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "LEARN POST REQUEST",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "LEARN ASYNC AWAIT",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "LEARN API I",
+      "status": false,
+      "id": 9
+    }
+  ],
+  "posts": [],
+  "users": [
+    {
+      "username": "Satya",
+      "password": "satya"
+    }
+  ]
+}
