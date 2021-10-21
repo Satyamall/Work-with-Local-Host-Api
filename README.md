@@ -10,4 +10,5 @@
  Make a folder server, after it make db.json file inside server folder and work with inside server folder below mention points:
  1. npm init -y
  2. npm install json-server/ npm i json-server
- 3. npm run start
+ 3. set in package.json file inside server folder, inside package.json file in scripts part set these commont "start": "json-server db.json"
+ 4. npm run start
